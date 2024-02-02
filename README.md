@@ -7,4 +7,6 @@ Benvinguts al meu repositori de Python
 
 - [Hello World](HelloWorld.py)
 - [Bateria 1.1](Bateria1.1.py)
-> Programa que pregunta dos números a l'usuari i calcula la seva suma.
+- [Bateria 1.2](Bateria1.2.py)
+- [Bateria 1.3](Bateria1.3.py)
+- [Bateria 1.4](Bateria1.4.py)
