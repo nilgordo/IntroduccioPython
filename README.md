@@ -16,4 +16,4 @@ Benvinguts al meu repositori de Python
 - [Bateria 1.5](Bateria1.5.py)
 ### Bucles
 - [Bucles for 1.1](Buclesfor1.1.py)
-  
+- [Bucles for 1.2](Buclesfor1.2.py)
